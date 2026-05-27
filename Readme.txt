@@ -15,5 +15,7 @@ Hi ! So, if you want to use this ready llama-server code, you should do some ste
 5-Informations :
 -Llama.cpp, can just run .GGUF llm models.
 -This llama-server.bat is not an api, so you can't acces it on other devices connected to your wifi, so, you can make it an api yourself but I will be uploading the router (api) version later
+-When you extract the file in the llama.cpp directory, it may be extracted in a folder, so you should grab the files from the extracted folder and put it in the llama.cpp directory
+-Because it's hard to find the files in llama.cpp directory, I recommend you to make a shortcut for the .bat file
 
 So, if this small project of mine helped you or if it has a problem, you can tell me, I will try to fix it.
